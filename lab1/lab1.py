@@ -7,3 +7,6 @@ for i in range(10):
             print('1', end=' ')
     print(end='\n')
 # Lab1 end
+
+
+# smthn
