@@ -11,8 +11,4 @@ arr = arr * arr.transpose()
 print("Result:")
 print(arr)
 
-
-
-
-
 # Lab3 end

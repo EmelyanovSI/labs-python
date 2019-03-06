@@ -152,7 +152,5 @@ for i in range(5):
 
 print(pi)
 
-
 lab101 = numpy.eye(10)
 print(lab101)
-
