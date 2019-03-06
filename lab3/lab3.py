@@ -1,5 +1,7 @@
 # Emelyanov SI Lab3
 
+# Exercise
+
 import numpy as np
 
 arr = []

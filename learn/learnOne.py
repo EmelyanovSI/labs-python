@@ -1,4 +1,7 @@
 # Emelyanov SI learn
+
+# don`t try to understand this code (^^)
+
 import random
 from math import pi, sqrt
 # from math import * - использовать не рекомендуется
