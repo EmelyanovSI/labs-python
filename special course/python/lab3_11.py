@@ -16,4 +16,3 @@ A = np.array(A)
 B = np.array(B)
 res = A.dot(5) + B.dot(3)
 print("Result:\n", res)
-# Lab3 end

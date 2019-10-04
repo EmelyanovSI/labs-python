@@ -23,4 +23,3 @@ B = np.array(B)
 C = np.array(C)
 res = A.dot(3) + B.dot(2) + C
 print("Result equiv: ", np.array_equiv(res, np.eye(n, dtype=int)))
-# Lab3 end

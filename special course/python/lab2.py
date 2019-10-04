@@ -9,7 +9,6 @@ print("\nInput array:")
 for i in range(3):
     arr.append([int(j) for j in input().split()])
 arr = np.array(arr)
-arr = arr.transpose() * arr  # было - arr = arr * arr.transpose()
+arr = arr.transpose() * arr
 print("Result:")
 print(arr)
-# Lab2 end
